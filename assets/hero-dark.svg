@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 300" width="1000" height="300">
+  <defs>
+    <pattern id="grid-dark" width="25" height="25" patternUnits="userSpaceOnUse">
+      <path d="M 25 0 L 0 0 0 25" fill="none" stroke="#172033" stroke-width="0.8"/>
+    </pattern>
+    <linearGradient id="glow-dark" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#38bdf8" stop-opacity="0.8"/>
+      <stop offset="50%" stop-color="#818cf8" stop-opacity="0.6"/>
+      <stop offset="100%" stop-color="#c084fc" stop-opacity="0.9"/>
+    </linearGradient>
+    <radialGradient id="radial-glow" cx="80%" cy="20%" r="60%">
+      <stop offset="0%" stop-color="#1e293b" stop-opacity="0.8"/>
+      <stop offset="100%" stop-color="#070a11" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <!-- Background Base -->
+  <rect width="1000" height="300" fill="#070a11" rx="12"/>
+  <rect width="1000" height="300" fill="url(#radial-glow)" rx="12"/>
+  <rect width="1000" height="300" fill="url(#grid-dark)" rx="12"/>
+  <rect x="0.5" y="0.5" width="999" height="299" fill="none" stroke="#1e293b" stroke-width="1" rx="12"/>
+
+  <!-- Left Accent Terminal Marker -->
+  <rect x="40" y="44" width="4" height="212" fill="url(#glow-dark)" rx="2"/>
+
+  <!-- Top Metadata Monospace -->
+  <text x="60" y="65" fill="#64748b" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12" letter-spacing="2">SYSTEM: DESIGN:OS · RUNTIME: AUTONOMOUS MULTI-AGENT</text>
+  <circle cx="580" cy="61" r="4" fill="#10b981"/>
+  <text x="592" y="65" fill="#34d399" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11" letter-spacing="1">ORCHESTRATING</text>
+
+  <!-- Main Identity Header -->
+  <text x="60" y="125" fill="#f8fafc" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-weight="800" font-size="44" letter-spacing="-0.03em">JANG TRINH</text>
+  <text x="350" y="125" fill="url(#glow-dark)" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-weight="600" font-size="28" letter-spacing="-0.02em">/ design:os</text>
+
+  <!-- Subtitle Hook -->
+  <text x="60" y="165" fill="#94a3b8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-weight="400" font-size="16">
+    Architecting autonomous coding agents, deterministic vector motion, and parametric 3D systems.
+  </text>
+
+  <!-- Architectural Badges inside SVG -->
+  <g transform="translate(60, 205)">
+    <!-- Badge 1 -->
+    <rect x="0" y="0" width="130" height="32" rx="6" fill="#0f172a" stroke="#334155" stroke-width="1"/>
+    <text x="14" y="20" fill="#38bdf8" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11" font-weight="600">UKMC.v1 Gated</text>
+
+    <!-- Badge 2 -->
+    <rect x="142" y="0" width="120" height="32" rx="6" fill="#0f172a" stroke="#334155" stroke-width="1"/>
+    <text x="156" y="20" fill="#a78bfa" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11" font-weight="600">Local-First</text>
+
+    <!-- Badge 3 -->
+    <rect x="274" y="0" width="145" height="32" rx="6" fill="#0f172a" stroke="#334155" stroke-width="1"/>
+    <text x="288" y="20" fill="#34d399" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11" font-weight="600">Three.js &amp; Blender</text>
+
+    <!-- Badge 4 -->
+    <rect x="431" y="0" width="140" height="32" rx="6" fill="#0f172a" stroke="#334155" stroke-width="1"/>
+    <text x="445" y="20" fill="#fbbf24" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11" font-weight="600">Zero-Chroma DS</text>
+  </g>
+
+  <!-- Decorative Isometric Cube Wireframe on Right -->
+  <g transform="translate(820, 150)" stroke="#38bdf8" stroke-width="1.2" fill="none" opacity="0.8">
+    <path d="M 0 -60 L 52 -30 L 52 30 L 0 60 L -52 30 L -52 -30 Z" stroke="#38bdf8"/>
+    <path d="M 0 0 L 52 -30 M 0 0 L -52 -30 M 0 0 L 0 60" stroke="#818cf8"/>
+    <circle cx="0" cy="0" r="3" fill="#38bdf8"/>
+    <circle cx="52" cy="-30" r="2.5" fill="#818cf8"/>
+    <circle cx="-52" cy="-30" r="2.5" fill="#818cf8"/>
+    <circle cx="0" cy="60" r="2.5" fill="#c084fc"/>
+    <circle cx="52" cy="30" r="2" fill="#334155"/>
+    <circle cx="-52" cy="30" r="2" fill="#334155"/>
+  </g>
+</svg>

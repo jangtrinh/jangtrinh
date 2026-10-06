@@ -1,0 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 420" width="960" height="420">
+  <defs>
+    <linearGradient id="box-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#1e293b"/>
+    </linearGradient>
+    <linearGradient id="accent-cyan" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38bdf8"/>
+      <stop offset="100%" stop-color="#818cf8"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Canvas Background -->
+  <rect width="960" height="420" fill="#090d16" rx="10"/>
+  <rect x="0.5" y="0.5" width="959" height="419" fill="none" stroke="#1e293b" stroke-width="1" rx="10"/>
+
+  <!-- Top Title -->
+  <text x="40" y="44" fill="#94a3b8" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12" letter-spacing="2">ECOSYSTEM ARCHITECTURE // DESIGN:OS SUITE</text>
+
+  <!-- Core Knowledge & Gate Base (Top Center) -->
+  <g transform="translate(280, 70)">
+    <rect width="400" height="74" rx="8" fill="url(#box-grad)" stroke="#38bdf8" stroke-width="1.5"/>
+    <text x="20" y="30" fill="#38bdf8" font-family="ui-monospace, monospace" font-size="11" font-weight="700">CORE FOUNDATION &amp; STOPPING GATE</text>
+    <text x="20" y="52" fill="#ffffff" font-family="-apple-system, sans-serif" font-size="15" font-weight="700">design-os-knowledge-builder</text>
+    <text x="260" y="52" fill="#94a3b8" font-family="ui-monospace, monospace" font-size="11">UKMC.v1 · 5-Stage Ingest</text>
+  </g>
+
+  <!-- Connective Lines from Core -->
+  <path d="M 480 144 L 480 180" stroke="#38bdf8" stroke-width="1.5" stroke-dasharray="3,3"/>
+  <path d="M 160 180 L 800 180" stroke="#334155" stroke-width="1.5"/>
+  <path d="M 160 180 L 160 210" stroke="#334155" stroke-width="1.5"/>
+  <path d="M 320 180 L 320 210" stroke="#334155" stroke-width="1.5"/>
+  <path d="M 480 180 L 480 210" stroke="#334155" stroke-width="1.5"/>
+  <path d="M 640 180 L 640 210" stroke="#334155" stroke-width="1.5"/>
+  <path d="M 800 180 L 800 210" stroke="#334155" stroke-width="1.5"/>
+
+  <!-- Specialized Engine Cards -->
+  <!-- 1. Figma Plugin -->
+  <g transform="translate(90, 210)">
+    <rect width="140" height="90" rx="6" fill="#0f172a" stroke="#334155" stroke-width="1"/>
+    <rect x="0" y="0" width="140" height="3" fill="#ec4899" rx="1"/>
+    <text x="12" y="24" fill="#ec4899" font-family="ui-monospace, monospace" font-size="10" font-weight="700">CANVAS BRIDGE</text>
+    <text x="12" y="44" fill="#ffffff" font-family="-apple-system, sans-serif" font-size="12" font-weight="600">figma-plugin</text>
+    <text x="12" y="64" fill="#94a3b8" font-family="-apple-system, sans-serif" font-size="10">Bi-directional token sync &amp; desktop bridge</text>
+  </g>
+
+  <!-- 2. SVG Animation -->
+  <g transform="translate(250, 210)">
+    <rect width="140" height="90" rx="6" fill="#0f172a" stroke="#334155" stroke-width="1"/>
+    <rect x="0" y="0" width="140" height="3" fill="#8b5cf6" rx="1"/>
+    <text x="12" y="24" fill="#8b5cf6" font-family="ui-monospace, monospace" font-size="10" font-weight="700">VECTOR MOTION</text>
+    <text x="12" y="44" fill="#ffffff" font-family="-apple-system, sans-serif" font-size="12" font-weight="600">svg-animation</text>
+    <text x="12" y="64" fill="#94a3b8" font-family="-apple-system, sans-serif" font-size="10">Deterministic 1080p 60fps code-driven video</text>
+  </g>
+
+  <!-- 3. 3D Blender -->
+  <g transform="translate(410, 210)">
+    <rect width="140" height="90" rx="6" fill="#0f172a" stroke="#334155" stroke-width="1"/>
+    <rect x="0" y="0" width="140" height="3" fill="#f59e0b" rx="1"/>
+    <text x="12" y="24" fill="#f59e0b" font-family="ui-monospace, monospace" font-size="10" font-weight="700">3D CAD / THREE.JS</text>
+    <text x="12" y="44" fill="#ffffff" font-family="-apple-system, sans-serif" font-size="12" font-weight="600">3d-blender</text>
+    <text x="12" y="64" fill="#94a3b8" font-family="-apple-system, sans-serif" font-size="10">Parametric synthesis &amp; embedded 3D viewer</text>
+  </g>
+
+  <!-- 4. Drone Showcase -->
+  <g transform="translate(570, 210)">
+    <rect width="140" height="90" rx="6" fill="#0f172a" stroke="#334155" stroke-width="1"/>
+    <rect x="0" y="0" width="140" height="3" fill="#10b981" rx="1"/>
+    <text x="12" y="24" fill="#10b981" font-family="ui-monospace, monospace" font-size="10" font-weight="700">HARDWARE</text>
+    <text x="12" y="44" fill="#ffffff" font-family="-apple-system, sans-serif" font-size="12" font-weight="600">drone-showcase</text>
+    <text x="12" y="64" fill="#94a3b8" font-family="-apple-system, sans-serif" font-size="10">249g indoor drone scroll kinematics</text>
+  </g>
+
+  <!-- 5. GitHub Pages -->
+  <g transform="translate(730, 210)">
+    <rect width="140" height="90" rx="6" fill="#0f172a" stroke="#334155" stroke-width="1"/>
+    <rect x="0" y="0" width="140" height="3" fill="#38bdf8" rx="1"/>
+    <text x="12" y="24" fill="#38bdf8" font-family="ui-monospace, monospace" font-size="10" font-weight="700">DOCS &amp; AEO</text>
+    <text x="12" y="44" fill="#ffffff" font-family="-apple-system, sans-serif" font-size="12" font-weight="600">github-page</text>
+    <text x="12" y="64" fill="#94a3b8" font-family="-apple-system, sans-serif" font-size="10">Author-grade 9-tier Pages generator</text>
+  </g>
+
+  <!-- Bottom Synthesis Bar: jang.work & Personal System -->
+  <g transform="translate(200, 335)">
+    <rect width="560" height="52" rx="6" fill="#111827" stroke="#374151" stroke-width="1"/>
+    <text x="24" y="31" fill="#f8fafc" font-family="-apple-system, sans-serif" font-size="14" font-weight="600">Portfolio &amp; Design System: <tspan fill="#38bdf8">jang.work</tspan></text>
+    <text x="350" y="31" fill="#9ca3af" font-family="ui-monospace, monospace" font-size="12">Canonical 2:1 Isometric Art Direction</text>
+  </g>
+</svg>
