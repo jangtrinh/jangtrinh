@@ -15,7 +15,7 @@
 
 ---
 
-## ⚡ Who I Am
+## Who I Am
 
 I am **Jang Trinh**, an autonomous systems architect and creative technologist based in Vietnam (UTC+7). 
 
@@ -25,7 +25,7 @@ I build **`DESIGN:OS`** — a production suite of interconnected developer engin
 
 ---
 
-## 🌐 The `DESIGN:OS` Ecosystem
+## The DESIGN:OS Ecosystem
 
 The `DESIGN:OS` architecture connects autonomous AI agents, desktop creative bridges, parametric CAD, and automated documentation into a unified, zero-telemetry toolchain:
 
@@ -33,66 +33,60 @@ The `DESIGN:OS` architecture connects autonomous AI agents, desktop creative bri
   <tr>
     <td width="33%" valign="top">
       <a href="https://github.com/jangtrinh/design-os-knowledge-builder">
-        <img src="https://raw.githubusercontent.com/jangtrinh/jangtrinh/main/assets/card-knowledge-builder.svg" width="100%" alt="Knowledge Builder"/>
+        <img src="https://raw.githubusercontent.com/jangtrinh/jangtrinh/main/assets/codex/knowledge-builder.png" width="100%" alt="Knowledge Builder"/>
       </a>
       <br/><br/>
       <b><a href="https://github.com/jangtrinh/design-os-knowledge-builder">Knowledge Builder</a></b>
-      <p>Universal multimodal ingestion (PDF, Video, Web) &amp; formal epistemic stopping gate engine (<code>UKMC.v1</code>).</p>
-      <sub><code>Multi-Agent Engine</code></sub>
+      <p>Universal multimodal ingestion (PDF, Video, Web) and formal epistemic stopping gate engine (<code>UKMC.v1</code>).</p>
     </td>
     <td width="33%" valign="top">
       <a href="https://github.com/jangtrinh/design-os-figma-plugin">
-        <img src="https://raw.githubusercontent.com/jangtrinh/jangtrinh/main/assets/card-figma-plugin.svg" width="100%" alt="Figma Plugin Bridge"/>
+        <img src="https://raw.githubusercontent.com/jangtrinh/jangtrinh/main/assets/codex/figma-plugin.png" width="100%" alt="Figma Plugin Bridge"/>
       </a>
       <br/><br/>
       <b><a href="https://github.com/jangtrinh/design-os-figma-plugin">Figma Plugin Bridge</a></b>
-      <p>Live canvas bridge &amp; bidirectional design token sync. Multi-machine relay architecture without browser latency.</p>
-      <sub><code>Desktop Bridge</code></sub>
+      <p>Live canvas bridge and bidirectional design token sync. Multi-machine relay architecture without browser latency.</p>
     </td>
     <td width="33%" valign="top">
       <a href="https://github.com/jangtrinh/design-os-svg-animation">
-        <img src="https://raw.githubusercontent.com/jangtrinh/jangtrinh/main/assets/card-svg-animation.svg" width="100%" alt="SVG Animation"/>
+        <img src="https://raw.githubusercontent.com/jangtrinh/jangtrinh/main/assets/codex/svg-animation.png" width="100%" alt="SVG Animation"/>
       </a>
       <br/><br/>
       <b><a href="https://github.com/jangtrinh/design-os-svg-animation">SVG Animation</a></b>
-      <p>Deterministic 1080p 60fps code-driven video generation &amp; hairline mathematical kinematic motion.</p>
-      <sub><code>Vector Motion</code></sub>
+      <p>Deterministic 1080p 60fps code-driven video generation and hairline mathematical kinematic motion.</p>
     </td>
   </tr>
   <tr>
     <td width="33%" valign="top">
       <a href="https://github.com/jangtrinh/design-os-3d-blender">
-        <img src="https://raw.githubusercontent.com/jangtrinh/jangtrinh/main/assets/card-3d-blender.svg" width="100%" alt="3D Blender Engine"/>
+        <img src="https://raw.githubusercontent.com/jangtrinh/jangtrinh/main/assets/codex/3d-blender.png" width="100%" alt="3D Blender Engine"/>
       </a>
       <br/><br/>
       <b><a href="https://github.com/jangtrinh/design-os-3d-blender">3D Blender Engine</a></b>
       <p>Headless Blender Python automation, parametric CAD synthesis, and embedded Three.js 3D viewer.</p>
-      <sub><code>Spatial / CAD</code></sub>
     </td>
     <td width="33%" valign="top">
       <a href="https://github.com/jangtrinh/design-os-drone-showcase">
-        <img src="https://raw.githubusercontent.com/jangtrinh/jangtrinh/main/assets/card-drone-showcase.svg" width="100%" alt="Drone Engineering"/>
+        <img src="https://raw.githubusercontent.com/jangtrinh/jangtrinh/main/assets/codex/drone-showcase.png" width="100%" alt="Drone Engineering"/>
       </a>
       <br/><br/>
       <b><a href="https://github.com/jangtrinh/design-os-drone-showcase">Drone Engineering</a></b>
       <p>249g indoor drone teardown, scroll-scrubbing kinematics, and interactive mechanical exploded view.</p>
-      <sub><code>Hardware Teardown</code></sub>
     </td>
     <td width="33%" valign="top">
       <a href="https://github.com/jangtrinh/design-os-github-page">
-        <img src="https://raw.githubusercontent.com/jangtrinh/jangtrinh/main/assets/card-github-page.svg" width="100%" alt="GitHub Page Engine"/>
+        <img src="https://raw.githubusercontent.com/jangtrinh/jangtrinh/main/assets/codex/github-page.png" width="100%" alt="GitHub Page Engine"/>
       </a>
       <br/><br/>
       <b><a href="https://github.com/jangtrinh/design-os-github-page">GitHub Page Engine</a></b>
       <p>Author-grade 9-tier documentation engine, zero-dependency Python 3 generator, and AEO/GEO indexing.</p>
-      <sub><code>AEO &amp; Docs</code></sub>
     </td>
   </tr>
 </table>
 
 ---
 
-## 🛠️ Specialized Technical Stack
+## Technical Stack
 
 I prioritize systems programming, spatial computing, and deterministic agent orchestration:
 
@@ -135,7 +129,7 @@ I prioritize systems programming, spatial computing, and deterministic agent orc
 
 ---
 
-## 📈 Activity & Live Telemetry
+## Activity & Telemetry
 
 <!-- START_SECTION:snake -->
 <p align="center">
@@ -154,12 +148,12 @@ I prioritize systems programming, spatial computing, and deterministic agent orc
 
 ---
 
-## 📬 Connect & Collaborate
+## Connect & Collaborate
 
-- 🌐 **Personal Website**: [jang.work](https://www.jang.work/)
-- 📧 **Direct Inquiries**: [trinhnguyengiang@gmail.com](mailto:trinhnguyengiang@gmail.com)
-- 🐙 **GitHub Organization**: [@jangtrinh](https://github.com/jangtrinh)
-- 📍 **Timezone**: ICT (UTC+7) · Available for high-impact autonomous agent architectures and creative engineering collaborations.
+- **Personal Website**: [jang.work](https://www.jang.work/)
+- **Direct Inquiries**: [trinhnguyengiang@gmail.com](mailto:trinhnguyengiang@gmail.com)
+- **GitHub Organization**: [@jangtrinh](https://github.com/jangtrinh)
+- **Timezone**: ICT (UTC+7) · Available for high-impact autonomous agent architectures and creative engineering collaborations.
 
 <p align="center">
   <sub>Engineered with precision according to <b>Universal Knowledge Master Contract (UKMC.v1)</b> standards.</sub>
