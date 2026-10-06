@@ -1,16 +1,16 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jangtrinh/jangtrinh/main/assets/hero-dark.svg?v=3">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jangtrinh/jangtrinh/main/assets/hero-light.svg?v=3">
-    <img src="https://raw.githubusercontent.com/jangtrinh/jangtrinh/main/assets/hero-light.svg?v=3" alt="Jang Trinh / DESIGN:OS Hero Banner" width="850">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jangtrinh/jangtrinh/main/assets/hero-dark.svg?v=4">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jangtrinh/jangtrinh/main/assets/hero-light.svg?v=4">
+    <img src="https://raw.githubusercontent.com/jangtrinh/jangtrinh/main/assets/hero-light.svg?v=4" alt="Jang Trinh / DESIGN:OS Hero Banner" width="850">
   </picture>
 </p>
 
 <p align="center">
-  <a href="https://jang.work"><img src="https://img.shields.io/badge/Portfolio-jang.work-38bdf8?style=flat-square&logo=safari&logoColor=white" alt="Portfolio"/></a>
-  <a href="https://github.com/jangtrinh"><img src="https://img.shields.io/badge/Ecosystem-DESIGN%3AOS-818cf8?style=flat-square&logo=github&logoColor=white" alt="Ecosystem"/></a>
-  <a href="https://github.com/jangtrinh/design-os-knowledge-builder"><img src="https://img.shields.io/badge/Contract-UKMC.v1-c084fc?style=flat-square" alt="UKMC Contract"/></a>
-  <a href="mailto:trinhnguyengiang@gmail.com"><img src="https://img.shields.io/badge/Contact-Email-34d399?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://jang.work"><img src="https://img.shields.io/badge/Portfolio-jang.work-000000?style=flat-square&logo=safari&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://github.com/jangtrinh"><img src="https://img.shields.io/badge/Ecosystem-DESIGN%3AOS-000000?style=flat-square&logo=github&logoColor=white" alt="Ecosystem"/></a>
+  <a href="https://github.com/jangtrinh/design-os-knowledge-builder"><img src="https://img.shields.io/badge/Contract-UKMC.v1-000000?style=flat-square" alt="UKMC Contract"/></a>
+  <a href="mailto:trinhnguyengiang@gmail.com"><img src="https://img.shields.io/badge/Contact-Email-000000?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
 ---
@@ -45,7 +45,7 @@ The `DESIGN:OS` architecture connects autonomous AI agents, desktop creative bri
       </a>
       <br/><br/>
       <b><a href="https://github.com/jangtrinh/design-os-figma-plugin">Figma Plugin Bridge</a></b>
-      <p>Live canvas bridge and bidirectional design token sync. Multi-machine relay architecture without browser latency.</p>
+      <p>Live canvas bridge and bidirectional design token sync without browser latency.</p>
     </td>
     <td width="33%" valign="top">
       <a href="https://github.com/jangtrinh/design-os-svg-animation">
@@ -53,9 +53,12 @@ The `DESIGN:OS` architecture connects autonomous AI agents, desktop creative bri
       </a>
       <br/><br/>
       <b><a href="https://github.com/jangtrinh/design-os-svg-animation">SVG Animation</a></b>
-      <p>Deterministic 1080p 60fps code-driven video generation and hairline mathematical kinematic motion.</p>
+      <p>Deterministic 1080p 60fps code-driven video generation and mathematical kinematic motion.</p>
     </td>
   </tr>
+</table>
+
+<table align="center" width="100%">
   <tr>
     <td width="33%" valign="top">
       <a href="https://github.com/jangtrinh/design-os-3d-blender">
@@ -80,6 +83,64 @@ The `DESIGN:OS` architecture connects autonomous AI agents, desktop creative bri
       <br/><br/>
       <b><a href="https://github.com/jangtrinh/design-os-github-page">GitHub Page Engine</a></b>
       <p>Author-grade 9-tier documentation engine, zero-dependency Python 3 generator, and AEO/GEO indexing.</p>
+    </td>
+  </tr>
+</table>
+
+<table align="center" width="100%">
+  <tr>
+    <td width="33%" valign="top">
+      <a href="https://github.com/jangtrinh/design-os-apple">
+        <img src="https://raw.githubusercontent.com/jangtrinh/jangtrinh/main/assets/codex/apple.png" width="100%" alt="Apple Design OS"/>
+      </a>
+      <br/><br/>
+      <b><a href="https://github.com/jangtrinh/design-os-apple">Apple Design OS</a></b>
+      <p>SwiftUI native multi-platform design system library and adaptive OS27 specimens.</p>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://github.com/jangtrinh/design-os-pedagogy">
+        <img src="https://raw.githubusercontent.com/jangtrinh/jangtrinh/main/assets/codex/pedagogy.png" width="100%" alt="Agent Teacher"/>
+      </a>
+      <br/><br/>
+      <b><a href="https://github.com/jangtrinh/design-os-pedagogy">Agent Teacher</a></b>
+      <p>Evidence-graded pedagogy knowledge library and local teacher rehearsal architecture.</p>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://github.com/jangtrinh/design-os-voice-ux">
+        <img src="https://raw.githubusercontent.com/jangtrinh/jangtrinh/main/assets/codex/voice-ux.png" width="100%" alt="Voice UX System"/>
+      </a>
+      <br/><br/>
+      <b><a href="https://github.com/jangtrinh/design-os-voice-ux">Voice UX System</a></b>
+      <p>Production conversational AI knowledge base, interaction state machines, and latency budgets.</p>
+    </td>
+  </tr>
+</table>
+
+<table align="center" width="100%">
+  <tr>
+    <td width="33%" valign="top">
+      <a href="https://github.com/jangtrinh/code2flow">
+        <img src="https://raw.githubusercontent.com/jangtrinh/jangtrinh/main/assets/codex/code2flow.png" width="100%" alt="Code2Flow Engine"/>
+      </a>
+      <br/><br/>
+      <b><a href="https://github.com/jangtrinh/code2flow">Code2Flow Engine</a></b>
+      <p>Codebase to living evidence-backed user flow canvas with real screenshot verification.</p>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://github.com/jangtrinh/design-os-finance">
+        <img src="https://raw.githubusercontent.com/jangtrinh/jangtrinh/main/assets/codex/finance.png" width="100%" alt="Financial OS"/>
+      </a>
+      <br/><br/>
+      <b><a href="https://github.com/jangtrinh/design-os-finance">Financial OS</a></b>
+      <p>Deterministic financial modeling and semantic intelligence for startup operations.</p>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://github.com/jangtrinh/design-os-hq">
+        <img src="https://raw.githubusercontent.com/jangtrinh/jangtrinh/main/assets/codex/studio-hq.png" width="100%" alt="Studio Operations"/>
+      </a>
+      <br/><br/>
+      <b><a href="https://github.com/jangtrinh/design-os-hq">Studio Operations</a></b>
+      <p>Central studio operations, multi-agent dispatch coordination, and governance.</p>
     </td>
   </tr>
 </table>
@@ -131,19 +192,8 @@ I prioritize systems programming, spatial computing, and deterministic agent orc
 
 ## Activity & Telemetry
 
-<!-- START_SECTION:snake -->
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jangtrinh/jangtrinh/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jangtrinh/jangtrinh/output/github-snake.svg">
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/jangtrinh/jangtrinh/output/github-snake.svg" width="800">
-  </picture>
-</p>
-<!-- END_SECTION:snake -->
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jangtrinh&show_icons=true&theme=default&hide_border=false&border_color=e2e8f0&bg_color=ffffff&title_color=0f172a&icon_color=2563eb&text_color=475569&border_radius=8&v=3" alt="Jang's GitHub Stats" width="410" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jangtrinh&layout=compact&theme=default&hide_border=false&border_color=e2e8f0&bg_color=ffffff&title_color=0f172a&text_color=475569&border_radius=8&v=3" alt="Top Languages" width="370" />
+  <img src="https://raw.githubusercontent.com/jangtrinh/jangtrinh/main/assets/github-stats.svg?v=4" alt="Jang's GitHub Engineering Metrics" width="850" />
 </p>
 
 ---
