@@ -1,8 +1,8 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jangtrinh/jangtrinh/main/assets/hero-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jangtrinh/jangtrinh/main/assets/hero-light.svg">
-    <img src="https://raw.githubusercontent.com/jangtrinh/jangtrinh/main/assets/hero-light.svg" alt="Jang Trinh / DESIGN:OS Hero Banner" width="850">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jangtrinh/jangtrinh/main/assets/hero-dark.svg?v=3">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jangtrinh/jangtrinh/main/assets/hero-light.svg?v=3">
+    <img src="https://raw.githubusercontent.com/jangtrinh/jangtrinh/main/assets/hero-light.svg?v=3" alt="Jang Trinh / DESIGN:OS Hero Banner" width="850">
   </picture>
 </p>
 
@@ -142,8 +142,8 @@ I prioritize systems programming, spatial computing, and deterministic agent orc
 <!-- END_SECTION:snake -->
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jangtrinh&show_icons=true&theme=default&hide_border=false&border_color=e2e8f0&bg_color=ffffff&title_color=0f172a&icon_color=2563eb&text_color=475569&border_radius=8" alt="Jang's GitHub Stats" width="410" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jangtrinh&layout=compact&theme=default&hide_border=false&border_color=e2e8f0&bg_color=ffffff&title_color=0f172a&text_color=475569&border_radius=8" alt="Top Languages" width="370" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jangtrinh&show_icons=true&theme=default&hide_border=false&border_color=e2e8f0&bg_color=ffffff&title_color=0f172a&icon_color=2563eb&text_color=475569&border_radius=8&v=3" alt="Jang's GitHub Stats" width="410" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jangtrinh&layout=compact&theme=default&hide_border=false&border_color=e2e8f0&bg_color=ffffff&title_color=0f172a&text_color=475569&border_radius=8&v=3" alt="Top Languages" width="370" />
 </p>
 
 ---
