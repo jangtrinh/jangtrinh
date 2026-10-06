@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 240" width="400" height="240">
+  <defs>
+    <pattern id="card-grid-2" width="20" height="20" patternUnits="userSpaceOnUse">
+      <path d="M 20 0 L 0 0 0 20" fill="none" stroke="#f1f5f9" stroke-width="0.8"/>
+    </pattern>
+  </defs>
+
+  <rect width="400" height="240" fill="#ffffff"/>
+  <rect width="400" height="240" fill="url(#card-grid-2)"/>
+
+  <!-- Construction Axis -->
+  <line x1="30" y1="120" x2="370" y2="120" stroke="#e2e8f0" stroke-width="0.8" stroke-dasharray="3,3"/>
+
+  <!-- Base Plate -->
+  <path d="M 50 170 L 310 70 L 350 90 L 90 190 Z" fill="#ffffff" stroke="#202020" stroke-width="1.2"/>
+  <path d="M 50 170 L 50 176 L 90 196 L 90 190 Z" fill="#f8fafc" stroke="#202020" stroke-width="1.2"/>
+  <path d="M 90 190 L 90 196 L 350 96 L 350 90 Z" fill="#f1f5f9" stroke="#202020" stroke-width="1.2"/>
+
+  <!-- Left Canvas Plate (Figma Side) -->
+  <path d="M 80 155 L 140 125 L 175 142 L 115 172 Z" fill="#ffffff" stroke="#202020" stroke-width="1"/>
+  <!-- UI Wireframe Lines inside left canvas -->
+  <line x1="95" y1="152" x2="125" y2="137" stroke="#94a3b8" stroke-width="0.8"/>
+  <line x1="100" y1="158" x2="140" y2="138" stroke="#94a3b8" stroke-width="0.8"/>
+  <!-- Target Pin 1 -->
+  <circle cx="127" cy="148" r="3" fill="#ffffff" stroke="#ef4444" stroke-width="1.2"/>
+
+  <!-- Right Canvas Plate (Codebase / Desktop Side) -->
+  <path d="M 225 105 L 285 75 L 320 92 L 260 122 Z" fill="#ffffff" stroke="#202020" stroke-width="1"/>
+  <!-- Code/Terminal Wireframe Lines inside right canvas -->
+  <line x1="240" y1="102" x2="270" y2="87" stroke="#94a3b8" stroke-width="0.8"/>
+  <line x1="245" y1="108" x2="285" y2="88" stroke="#94a3b8" stroke-width="0.8"/>
+  <!-- Target Pin 2 -->
+  <circle cx="272" cy="98" r="3" fill="#ffffff" stroke="#ef4444" stroke-width="1.2"/>
+
+  <!-- Center Sliding Relay Carriage -->
+  <rect x="180" y="110" width="40" height="14" rx="3" fill="#f8fafc" stroke="#202020" stroke-width="1"/>
+  <circle cx="200" cy="117" r="3" fill="#ef4444"/>
+
+  <!-- Pantograph Linkage Arms (The Bridge Mechanism) -->
+  <!-- Left Arm -->
+  <line x1="127" y1="148" x2="160" y2="100" stroke="#202020" stroke-width="1.2"/>
+  <line x1="160" y1="100" x2="200" y2="117" stroke="#202020" stroke-width="1.2"/>
+  <!-- Right Arm -->
+  <line x1="200" y1="117" x2="240" y2="75" stroke="#202020" stroke-width="1.2"/>
+  <line x1="240" y1="75" x2="272" y2="98" stroke="#202020" stroke-width="1.2"/>
+
+  <!-- Red Accent Pivot Joints -->
+  <circle cx="160" cy="100" r="3.5" fill="#ffffff" stroke="#ef4444" stroke-width="1.2"/>
+  <circle cx="240" cy="75" r="3.5" fill="#ffffff" stroke="#ef4444" stroke-width="1.2"/>
+
+  <!-- Droplines from Stylus Tips -->
+  <line x1="127" y1="148" x2="127" y2="120" stroke="#202020" stroke-width="1"/>
+  <circle cx="127" cy="120" r="2" fill="#202020"/>
+  <line x1="272" y1="98" x2="272" y2="70" stroke="#202020" stroke-width="1"/>
+  <circle cx="272" cy="70" r="2" fill="#202020"/>
+</svg>

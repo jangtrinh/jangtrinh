@@ -2,7 +2,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jangtrinh/jangtrinh/main/assets/hero-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jangtrinh/jangtrinh/main/assets/hero-light.svg">
-    <img src="https://raw.githubusercontent.com/jangtrinh/jangtrinh/main/assets/hero-dark.svg" alt="Jang Trinh / DESIGN:OS Hero Banner" width="850">
+    <img src="https://raw.githubusercontent.com/jangtrinh/jangtrinh/main/assets/hero-light.svg" alt="Jang Trinh / DESIGN:OS Hero Banner" width="850">
   </picture>
 </p>
 
@@ -27,21 +27,68 @@ I build **`DESIGN:OS`** — a production suite of interconnected developer engin
 
 ## 🌐 The `DESIGN:OS` Ecosystem
 
-The `DESIGN:OS` architecture links autonomous AI agents, desktop creative bridges, parametric CAD, and automated documentation into a unified, zero-telemetry toolchain:
+The `DESIGN:OS` architecture connects autonomous AI agents, desktop creative bridges, parametric CAD, and automated documentation into a unified, zero-telemetry toolchain:
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/jangtrinh/jangtrinh/main/assets/ecosystem-architecture.svg" alt="DESIGN:OS Ecosystem Architecture" width="850"/>
-</p>
-
-| Repository | Focus & Archetype | Key Innovations | Live System |
-| :--- | :--- | :--- | :--- |
-| [**`design-os-knowledge-builder`**](https://github.com/jangtrinh/design-os-knowledge-builder) | Multi-Agent Knowledge Engine | **Universal Multimodal Ingestion** (PDF, Video, Diagrams), 3-tier cost routing, and formal **Epistemic Stopping Gates** (`UKMC.v1`). | [Docs Site](https://jangtrinh.github.io/design-os-knowledge-builder/) |
-| [**`design-os-github-page`**](https://github.com/jangtrinh/design-os-github-page) | Documentation & AEO Engine | **Zero-dependency Python 3 generator**, 9-tier author-grade information architecture, `llms.txt` (GEO), and Schema.org FAQPage microdata. | [Docs Site](https://jangtrinh.github.io/design-os-github-page/) |
-| [**`design-os-figma-plugin`**](https://github.com/jangtrinh/design-os-figma-plugin) | Desktop Plugin / Bridge | **Live canvas bridge**, bidirectional design token synchronization, multi-machine relay architecture without browser latency. | [Showcase](https://jangtrinh.github.io/design-os-figma-plugin/) |
-| [**`design-os-svg-animation`**](https://github.com/jangtrinh/design-os-svg-animation) | Vector Motion Engine | **Deterministic 1080p 60fps video generation**, code-driven kinematic motion, and hairline mathematical rendering. | [Showcase](https://jangtrinh.github.io/design-os-svg-animation/) |
-| [**`design-os-3d-blender`**](https://github.com/jangtrinh/design-os-3d-blender) | Parametric 3D & CAD Generator | **Headless Blender script automation**, parametric asset synthesis, and embedded zero-dependency Three.js 3D viewer. | [Showcase](https://jangtrinh.github.io/design-os-3d-blender/) |
-| [**`design-os-drone-showcase`**](https://github.com/jangtrinh/design-os-drone-showcase) | Hardware Engineering | **249g indoor drone teardown**, scroll-scrubbing kinematics, and interactive mechanical exploded view. | [Showcase](https://jangtrinh.github.io/design-os-drone-showcase/) |
-| [**`jang-personal-site`**](https://github.com/jangtrinh/jang-personal-site) | Portfolio & Design System | Canonical **2:1 isometric technical illustration design system**, zero-chroma token ladder, and verified case studies. | [jang.work](https://www.jang.work/) |
+<table align="center" width="100%">
+  <tr>
+    <td width="33%" valign="top">
+      <a href="https://github.com/jangtrinh/design-os-knowledge-builder">
+        <img src="https://raw.githubusercontent.com/jangtrinh/jangtrinh/main/assets/card-knowledge-builder.svg" width="100%" alt="Knowledge Builder"/>
+      </a>
+      <br/><br/>
+      <b><a href="https://github.com/jangtrinh/design-os-knowledge-builder">Knowledge Builder</a></b>
+      <p>Universal multimodal ingestion (PDF, Video, Web) &amp; formal epistemic stopping gate engine (<code>UKMC.v1</code>).</p>
+      <sub><code>Multi-Agent Engine</code></sub>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://github.com/jangtrinh/design-os-figma-plugin">
+        <img src="https://raw.githubusercontent.com/jangtrinh/jangtrinh/main/assets/card-figma-plugin.svg" width="100%" alt="Figma Plugin Bridge"/>
+      </a>
+      <br/><br/>
+      <b><a href="https://github.com/jangtrinh/design-os-figma-plugin">Figma Plugin Bridge</a></b>
+      <p>Live canvas bridge &amp; bidirectional design token sync. Multi-machine relay architecture without browser latency.</p>
+      <sub><code>Desktop Bridge</code></sub>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://github.com/jangtrinh/design-os-svg-animation">
+        <img src="https://raw.githubusercontent.com/jangtrinh/jangtrinh/main/assets/card-svg-animation.svg" width="100%" alt="SVG Animation"/>
+      </a>
+      <br/><br/>
+      <b><a href="https://github.com/jangtrinh/design-os-svg-animation">SVG Animation</a></b>
+      <p>Deterministic 1080p 60fps code-driven video generation &amp; hairline mathematical kinematic motion.</p>
+      <sub><code>Vector Motion</code></sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
+      <a href="https://github.com/jangtrinh/design-os-3d-blender">
+        <img src="https://raw.githubusercontent.com/jangtrinh/jangtrinh/main/assets/card-3d-blender.svg" width="100%" alt="3D Blender Engine"/>
+      </a>
+      <br/><br/>
+      <b><a href="https://github.com/jangtrinh/design-os-3d-blender">3D Blender Engine</a></b>
+      <p>Headless Blender Python automation, parametric CAD synthesis, and embedded Three.js 3D viewer.</p>
+      <sub><code>Spatial / CAD</code></sub>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://github.com/jangtrinh/design-os-drone-showcase">
+        <img src="https://raw.githubusercontent.com/jangtrinh/jangtrinh/main/assets/card-drone-showcase.svg" width="100%" alt="Drone Engineering"/>
+      </a>
+      <br/><br/>
+      <b><a href="https://github.com/jangtrinh/design-os-drone-showcase">Drone Engineering</a></b>
+      <p>249g indoor drone teardown, scroll-scrubbing kinematics, and interactive mechanical exploded view.</p>
+      <sub><code>Hardware Teardown</code></sub>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://github.com/jangtrinh/design-os-github-page">
+        <img src="https://raw.githubusercontent.com/jangtrinh/jangtrinh/main/assets/card-github-page.svg" width="100%" alt="GitHub Page Engine"/>
+      </a>
+      <br/><br/>
+      <b><a href="https://github.com/jangtrinh/design-os-github-page">GitHub Page Engine</a></b>
+      <p>Author-grade 9-tier documentation engine, zero-dependency Python 3 generator, and AEO/GEO indexing.</p>
+      <sub><code>AEO &amp; Docs</code></sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -101,8 +148,8 @@ I prioritize systems programming, spatial computing, and deterministic agent orc
 <!-- END_SECTION:snake -->
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jangtrinh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=090d16&title_color=38bdf8&icon_color=818cf8&text_color=94a3b8" alt="Jang's GitHub Stats" width="410" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jangtrinh&layout=compact&theme=tokyonight&hide_border=true&bg_color=090d16&title_color=38bdf8&text_color=94a3b8" alt="Top Languages" width="370" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jangtrinh&show_icons=true&theme=default&hide_border=false&border_color=e2e8f0&bg_color=ffffff&title_color=0f172a&icon_color=2563eb&text_color=475569&border_radius=8" alt="Jang's GitHub Stats" width="410" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jangtrinh&layout=compact&theme=default&hide_border=false&border_color=e2e8f0&bg_color=ffffff&title_color=0f172a&text_color=475569&border_radius=8" alt="Top Languages" width="370" />
 </p>
 
 ---
