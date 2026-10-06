@@ -1,14 +1,14 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jangtrinh/jangtrinh/main/assets/hero-dark.svg?v=4">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jangtrinh/jangtrinh/main/assets/hero-light.svg?v=4">
-    <img src="https://raw.githubusercontent.com/jangtrinh/jangtrinh/main/assets/hero-light.svg?v=4" alt="Jang Trinh / DESIGN:OS Hero Banner" width="850">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jangtrinh/jangtrinh/main/assets/hero-dark.svg?v=5">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jangtrinh/jangtrinh/main/assets/hero-light.svg?v=5">
+    <img src="https://raw.githubusercontent.com/jangtrinh/jangtrinh/main/assets/hero-light.svg?v=5" alt="Jang Trinh / DESIGN:OS Hero Banner" width="850">
   </picture>
 </p>
 
 <p align="center">
   <a href="https://jang.work"><img src="https://img.shields.io/badge/Portfolio-jang.work-000000?style=flat-square&logo=safari&logoColor=white" alt="Portfolio"/></a>
-  <a href="https://github.com/jangtrinh"><img src="https://img.shields.io/badge/Ecosystem-DESIGN%3AOS-000000?style=flat-square&logo=github&logoColor=white" alt="Ecosystem"/></a>
+  <a href="https://github.com/jangtrinh/design-os"><img src="https://img.shields.io/badge/Flagship-design--os-000000?style=flat-square&logo=github&logoColor=white" alt="Flagship"/></a>
   <a href="https://github.com/jangtrinh/design-os-knowledge-builder"><img src="https://img.shields.io/badge/Contract-UKMC.v1-000000?style=flat-square" alt="UKMC Contract"/></a>
   <a href="mailto:trinhnguyengiang@gmail.com"><img src="https://img.shields.io/badge/Contact-Email-000000?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
@@ -27,7 +27,26 @@ I build **`DESIGN:OS`** — a production suite of interconnected developer engin
 
 ## The DESIGN:OS Ecosystem
 
-The `DESIGN:OS` architecture connects autonomous AI agents, desktop creative bridges, parametric CAD, and automated documentation into a unified, zero-telemetry toolchain:
+The `DESIGN:OS` architecture connects autonomous AI agents, desktop creative bridges, parametric CAD, and automated documentation into a unified, zero-telemetry toolchain.
+
+### Flagship Engine
+
+<table align="center" width="100%">
+  <tr>
+    <td width="55%" valign="middle">
+      <a href="https://github.com/jangtrinh/design-os">
+        <img src="https://raw.githubusercontent.com/jangtrinh/jangtrinh/main/assets/codex/design-os.png" width="100%" alt="design-os Flagship"/>
+      </a>
+    </td>
+    <td width="45%" valign="middle">
+      <h3><a href="https://github.com/jangtrinh/design-os">design-os</a></h3>
+      <p><b>Flagship Design CLI &amp; Multi-Agent Design Operating System</b></p>
+      <p>Autonomous design engine for Claude Code, Codex, and Antigravity. Describe UI in plain words, get production-grade Web, Figma, and SwiftUI output through deterministic taste gates.</p>
+    </td>
+  </tr>
+</table>
+
+### Specialized Ecosystem Engines
 
 <table align="center" width="100%">
   <tr>
@@ -193,7 +212,7 @@ I prioritize systems programming, spatial computing, and deterministic agent orc
 ## Activity & Telemetry
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/jangtrinh/jangtrinh/main/assets/github-stats.svg?v=4" alt="Jang's GitHub Engineering Metrics" width="850" />
+  <img src="https://raw.githubusercontent.com/jangtrinh/jangtrinh/main/assets/github-stats.svg?v=5" alt="Jang's GitHub Engineering Metrics" width="850" />
 </p>
 
 ---
