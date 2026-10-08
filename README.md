@@ -100,8 +100,8 @@ The `DESIGN:OS` architecture connects autonomous AI agents, desktop creative bri
         <img src="https://raw.githubusercontent.com/jangtrinh/jangtrinh/main/assets/codex/github-page.png" width="100%" alt="GitHub Page Engine"/>
       </a>
       <br/><br/>
-      <b><a href="https://github.com/jangtrinh/design-os-github-page">GitHub Page Engine</a></b>
-      <p>Author-grade 9-tier documentation engine, zero-dependency Python 3 generator, and AEO/GEO indexing.</p>
+      <b><a href="https://github.com/jangtrinh/design-os-github-page">GitHub Presence &amp; Pages</a></b>
+      <p>Author-grade 9-tier Pages generator, Profile &amp; Repo README architecture specs, and AEO/GEO indexing.</p>
     </td>
   </tr>
 </table>
