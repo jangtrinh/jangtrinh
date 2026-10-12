@@ -35,7 +35,7 @@ The `DESIGN:OS` architecture connects autonomous AI agents, desktop creative bri
   <tr>
     <td width="55%" valign="middle">
       <a href="https://github.com/jangtrinh/design-os">
-        <img src="https://raw.githubusercontent.com/jangtrinh/jangtrinh/main/assets/codex/design-os.png" width="100%" alt="design-os Flagship"/>
+        <img src="https://raw.githubusercontent.com/jangtrinh/jangtrinh/main/assets/art-direction/design-os.png" width="100%" alt="design-os Flagship"/>
       </a>
     </td>
     <td width="45%" valign="middle">
@@ -52,7 +52,7 @@ The `DESIGN:OS` architecture connects autonomous AI agents, desktop creative bri
   <tr>
     <td width="33%" valign="top">
       <a href="https://github.com/jangtrinh/design-os-knowledge-builder">
-        <img src="https://raw.githubusercontent.com/jangtrinh/jangtrinh/main/assets/codex/knowledge-builder.png" width="100%" alt="Knowledge Builder"/>
+        <img src="https://raw.githubusercontent.com/jangtrinh/jangtrinh/main/assets/art-direction/knowledge-builder.png" width="100%" alt="Knowledge Builder"/>
       </a>
       <br/><br/>
       <b><a href="https://github.com/jangtrinh/design-os-knowledge-builder">Knowledge Builder</a></b>
@@ -60,7 +60,7 @@ The `DESIGN:OS` architecture connects autonomous AI agents, desktop creative bri
     </td>
     <td width="33%" valign="top">
       <a href="https://github.com/jangtrinh/design-os-figma-plugin">
-        <img src="https://raw.githubusercontent.com/jangtrinh/jangtrinh/main/assets/codex/figma-plugin.png" width="100%" alt="Figma Plugin Bridge"/>
+        <img src="https://raw.githubusercontent.com/jangtrinh/jangtrinh/main/assets/art-direction/figma-plugin.png" width="100%" alt="Figma Plugin Bridge"/>
       </a>
       <br/><br/>
       <b><a href="https://github.com/jangtrinh/design-os-figma-plugin">Figma Plugin Bridge</a></b>
@@ -68,7 +68,7 @@ The `DESIGN:OS` architecture connects autonomous AI agents, desktop creative bri
     </td>
     <td width="33%" valign="top">
       <a href="https://github.com/jangtrinh/design-os-svg-animation">
-        <img src="https://raw.githubusercontent.com/jangtrinh/jangtrinh/main/assets/codex/svg-animation.png" width="100%" alt="SVG Animation"/>
+        <img src="https://raw.githubusercontent.com/jangtrinh/jangtrinh/main/assets/art-direction/svg-animation.png" width="100%" alt="SVG Animation"/>
       </a>
       <br/><br/>
       <b><a href="https://github.com/jangtrinh/design-os-svg-animation">SVG Animation</a></b>
@@ -81,7 +81,7 @@ The `DESIGN:OS` architecture connects autonomous AI agents, desktop creative bri
   <tr>
     <td width="33%" valign="top">
       <a href="https://github.com/jangtrinh/design-os-3d-blender">
-        <img src="https://raw.githubusercontent.com/jangtrinh/jangtrinh/main/assets/codex/3d-blender.png" width="100%" alt="3D Blender Engine"/>
+        <img src="https://raw.githubusercontent.com/jangtrinh/jangtrinh/main/assets/art-direction/3d-blender.png" width="100%" alt="3D Blender Engine"/>
       </a>
       <br/><br/>
       <b><a href="https://github.com/jangtrinh/design-os-3d-blender">3D Blender Engine</a></b>
@@ -89,7 +89,7 @@ The `DESIGN:OS` architecture connects autonomous AI agents, desktop creative bri
     </td>
     <td width="33%" valign="top">
       <a href="https://github.com/jangtrinh/design-os-drone-showcase">
-        <img src="https://raw.githubusercontent.com/jangtrinh/jangtrinh/main/assets/codex/drone-showcase.png" width="100%" alt="Drone Engineering"/>
+        <img src="https://raw.githubusercontent.com/jangtrinh/jangtrinh/main/assets/art-direction/drone-showcase.png" width="100%" alt="Drone Engineering"/>
       </a>
       <br/><br/>
       <b><a href="https://github.com/jangtrinh/design-os-drone-showcase">Drone Engineering</a></b>
@@ -97,7 +97,7 @@ The `DESIGN:OS` architecture connects autonomous AI agents, desktop creative bri
     </td>
     <td width="33%" valign="top">
       <a href="https://github.com/jangtrinh/design-os-github-page">
-        <img src="https://raw.githubusercontent.com/jangtrinh/jangtrinh/main/assets/codex/github-page.png" width="100%" alt="GitHub Page Engine"/>
+        <img src="https://raw.githubusercontent.com/jangtrinh/jangtrinh/main/assets/art-direction/github-page.png" width="100%" alt="GitHub Page Engine"/>
       </a>
       <br/><br/>
       <b><a href="https://github.com/jangtrinh/design-os-github-page">GitHub Presence &amp; Pages</a></b>
@@ -110,7 +110,7 @@ The `DESIGN:OS` architecture connects autonomous AI agents, desktop creative bri
   <tr>
     <td width="33%" valign="top">
       <a href="https://github.com/jangtrinh/design-os-apple">
-        <img src="https://raw.githubusercontent.com/jangtrinh/jangtrinh/main/assets/codex/apple.png" width="100%" alt="Apple Design OS"/>
+        <img src="https://raw.githubusercontent.com/jangtrinh/jangtrinh/main/assets/art-direction/apple.png" width="100%" alt="Apple Design OS"/>
       </a>
       <br/><br/>
       <b><a href="https://github.com/jangtrinh/design-os-apple">Apple Design OS</a></b>
@@ -118,7 +118,7 @@ The `DESIGN:OS` architecture connects autonomous AI agents, desktop creative bri
     </td>
     <td width="33%" valign="top">
       <a href="https://github.com/jangtrinh/design-os-pedagogy">
-        <img src="https://raw.githubusercontent.com/jangtrinh/jangtrinh/main/assets/codex/pedagogy.png" width="100%" alt="Agent Teacher"/>
+        <img src="https://raw.githubusercontent.com/jangtrinh/jangtrinh/main/assets/art-direction/pedagogy.png" width="100%" alt="Agent Teacher"/>
       </a>
       <br/><br/>
       <b><a href="https://github.com/jangtrinh/design-os-pedagogy">Agent Teacher</a></b>
@@ -126,7 +126,7 @@ The `DESIGN:OS` architecture connects autonomous AI agents, desktop creative bri
     </td>
     <td width="33%" valign="top">
       <a href="https://github.com/jangtrinh/design-os-voice-ux">
-        <img src="https://raw.githubusercontent.com/jangtrinh/jangtrinh/main/assets/codex/voice-ux.png" width="100%" alt="Voice UX System"/>
+        <img src="https://raw.githubusercontent.com/jangtrinh/jangtrinh/main/assets/art-direction/voice-ux.png" width="100%" alt="Voice UX System"/>
       </a>
       <br/><br/>
       <b><a href="https://github.com/jangtrinh/design-os-voice-ux">Voice UX System</a></b>
@@ -139,7 +139,7 @@ The `DESIGN:OS` architecture connects autonomous AI agents, desktop creative bri
   <tr>
     <td width="33%" valign="top">
       <a href="https://github.com/jangtrinh/code2flow">
-        <img src="https://raw.githubusercontent.com/jangtrinh/jangtrinh/main/assets/codex/code2flow.png" width="100%" alt="Code2Flow Engine"/>
+        <img src="https://raw.githubusercontent.com/jangtrinh/jangtrinh/main/assets/art-direction/code2flow.png" width="100%" alt="Code2Flow Engine"/>
       </a>
       <br/><br/>
       <b><a href="https://github.com/jangtrinh/code2flow">Code2Flow Engine</a></b>
@@ -147,7 +147,7 @@ The `DESIGN:OS` architecture connects autonomous AI agents, desktop creative bri
     </td>
     <td width="33%" valign="top">
       <a href="https://github.com/jangtrinh/design-os-finance">
-        <img src="https://raw.githubusercontent.com/jangtrinh/jangtrinh/main/assets/codex/finance.png" width="100%" alt="Financial OS"/>
+        <img src="https://raw.githubusercontent.com/jangtrinh/jangtrinh/main/assets/art-direction/finance.png" width="100%" alt="Financial OS"/>
       </a>
       <br/><br/>
       <b><a href="https://github.com/jangtrinh/design-os-finance">Financial OS</a></b>
@@ -155,7 +155,7 @@ The `DESIGN:OS` architecture connects autonomous AI agents, desktop creative bri
     </td>
     <td width="33%" valign="top">
       <a href="https://github.com/jangtrinh/design-os-hq">
-        <img src="https://raw.githubusercontent.com/jangtrinh/jangtrinh/main/assets/codex/studio-hq.png" width="100%" alt="Studio Operations"/>
+        <img src="https://raw.githubusercontent.com/jangtrinh/jangtrinh/main/assets/art-direction/studio-hq.png" width="100%" alt="Studio Operations"/>
       </a>
       <br/><br/>
       <b><a href="https://github.com/jangtrinh/design-os-hq">Studio Operations</a></b>
