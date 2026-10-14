@@ -2,15 +2,16 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jangtrinh/jangtrinh/main/assets/hero-dark.svg?v=5">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jangtrinh/jangtrinh/main/assets/hero-light.svg?v=5">
-    <img src="https://raw.githubusercontent.com/jangtrinh/jangtrinh/main/assets/hero-light.svg?v=5" alt="Jang Trinh / DESIGN:OS Hero Banner" width="850">
+    <img src="https://raw.githubusercontent.com/jangtrinh/jangtrinh/main/assets/hero-light.svg?v=5" alt="Jang Trinh — Autonomous Systems Architect and Creator of DESIGN:OS Multi-Agent Design Operating System" width="850">
   </picture>
 </p>
 
 <p align="center">
-  <a href="https://jang.work"><img src="https://img.shields.io/badge/Portfolio-jang.work-000000?style=flat-square&logo=safari&logoColor=white" alt="Portfolio"/></a>
-  <a href="https://github.com/jangtrinh/design-os"><img src="https://img.shields.io/badge/Flagship-design--os-000000?style=flat-square&logo=github&logoColor=white" alt="Flagship"/></a>
-  <a href="https://github.com/jangtrinh/design-os-knowledge-builder"><img src="https://img.shields.io/badge/Contract-UKMC.v1-000000?style=flat-square" alt="UKMC Contract"/></a>
-  <a href="mailto:trinhnguyengiang@gmail.com"><img src="https://img.shields.io/badge/Contact-Email-000000?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://jang.work"><img src="https://img.shields.io/badge/Portfolio-jang.work-000000?style=flat-square&logo=safari&logoColor=white" alt="Portfolio jang.work"/></a>
+  <a href="https://github.com/jangtrinh/design-os"><img src="https://img.shields.io/badge/Flagship-design--os-000000?style=flat-square&logo=github&logoColor=white" alt="Flagship design-os CLI"/></a>
+  <a href="https://github.com/jangtrinh/design-os-knowledge-builder"><img src="https://img.shields.io/badge/Contract-UKMC.v1-000000?style=flat-square" alt="Universal Knowledge Master Contract UKMC.v1"/></a>
+  <a href="https://raw.githubusercontent.com/jangtrinh/jangtrinh/main/llms.txt"><img src="https://img.shields.io/badge/GEO-llms.txt-000000?style=flat-square" alt="LLMs.txt Machine Index for AI Agents"/></a>
+  <a href="mailto:trinhnguyengiang@gmail.com"><img src="https://img.shields.io/badge/Contact-Email-000000?style=flat-square&logo=gmail&logoColor=white" alt="Contact Email"/></a>
 </p>
 
 ---
@@ -35,7 +36,7 @@ The `DESIGN:OS` architecture connects autonomous AI agents, desktop creative bri
   <tr>
     <td width="55%" valign="middle">
       <a href="https://github.com/jangtrinh/design-os">
-        <img src="https://raw.githubusercontent.com/jangtrinh/jangtrinh/main/assets/art-direction/design-os.png" width="100%" alt="design-os Flagship"/>
+        <img src="https://raw.githubusercontent.com/jangtrinh/jangtrinh/main/assets/art-direction/design-os.png" width="100%" alt="design-os Flagship Design CLI and Multi-Agent Design Operating System for Claude Code, Codex, and Antigravity"/>
       </a>
     </td>
     <td width="45%" valign="middle">
@@ -52,7 +53,7 @@ The `DESIGN:OS` architecture connects autonomous AI agents, desktop creative bri
   <tr>
     <td width="33%" valign="top">
       <a href="https://github.com/jangtrinh/design-os-knowledge-builder">
-        <img src="https://raw.githubusercontent.com/jangtrinh/jangtrinh/main/assets/art-direction/knowledge-builder.png" width="100%" alt="Knowledge Builder"/>
+        <img src="https://raw.githubusercontent.com/jangtrinh/jangtrinh/main/assets/art-direction/knowledge-builder.png" width="100%" alt="DESIGN:OS Knowledge Builder — Universal Multimodal Ingestion Engine for PDF, Video, Web with UKMC.v1 Epistemic Stopping Gates"/>
       </a>
       <br/><br/>
       <b><a href="https://github.com/jangtrinh/design-os-knowledge-builder">Knowledge Builder</a></b>
@@ -60,7 +61,7 @@ The `DESIGN:OS` architecture connects autonomous AI agents, desktop creative bri
     </td>
     <td width="33%" valign="top">
       <a href="https://github.com/jangtrinh/design-os-figma-plugin">
-        <img src="https://raw.githubusercontent.com/jangtrinh/jangtrinh/main/assets/art-direction/figma-plugin.png" width="100%" alt="Figma Plugin Bridge"/>
+        <img src="https://raw.githubusercontent.com/jangtrinh/jangtrinh/main/assets/art-direction/figma-plugin.png" width="100%" alt="DESIGN:OS Figma Plugin Bridge — Local WebSocket CLI for Claude Code and Codex to Read and Edit Live Figma Canvases"/>
       </a>
       <br/><br/>
       <b><a href="https://github.com/jangtrinh/design-os-figma-plugin">Figma Plugin Bridge</a></b>
@@ -68,7 +69,7 @@ The `DESIGN:OS` architecture connects autonomous AI agents, desktop creative bri
     </td>
     <td width="33%" valign="top">
       <a href="https://github.com/jangtrinh/design-os-svg-animation">
-        <img src="https://raw.githubusercontent.com/jangtrinh/jangtrinh/main/assets/art-direction/svg-animation.png" width="100%" alt="SVG Animation"/>
+        <img src="https://raw.githubusercontent.com/jangtrinh/jangtrinh/main/assets/art-direction/svg-animation.png" width="100%" alt="DESIGN:OS SVG Animation — Deterministic 1080p 60fps Vector Motion and Virtual Clock Video Pipeline"/>
       </a>
       <br/><br/>
       <b><a href="https://github.com/jangtrinh/design-os-svg-animation">SVG Animation</a></b>
@@ -81,7 +82,7 @@ The `DESIGN:OS` architecture connects autonomous AI agents, desktop creative bri
   <tr>
     <td width="33%" valign="top">
       <a href="https://github.com/jangtrinh/design-os-3d-blender">
-        <img src="https://raw.githubusercontent.com/jangtrinh/jangtrinh/main/assets/art-direction/3d-blender.png" width="100%" alt="3D Blender Engine"/>
+        <img src="https://raw.githubusercontent.com/jangtrinh/jangtrinh/main/assets/art-direction/3d-blender.png" width="100%" alt="DESIGN:OS 3D Blender Engine — Headless Blender 5.2 Python bpy Automation, Parametric CAD, and Three.js Viewer"/>
       </a>
       <br/><br/>
       <b><a href="https://github.com/jangtrinh/design-os-3d-blender">3D Blender Engine</a></b>
@@ -89,7 +90,7 @@ The `DESIGN:OS` architecture connects autonomous AI agents, desktop creative bri
     </td>
     <td width="33%" valign="top">
       <a href="https://github.com/jangtrinh/design-os-drone-showcase">
-        <img src="https://raw.githubusercontent.com/jangtrinh/jangtrinh/main/assets/art-direction/drone-showcase.png" width="100%" alt="Drone Engineering"/>
+        <img src="https://raw.githubusercontent.com/jangtrinh/jangtrinh/main/assets/art-direction/drone-showcase.png" width="100%" alt="DESIGN:OS Drone Engineering Showcase — 249g Indoor Drone Teardown with Scroll-Scrubbing Kinematics and Exploded View"/>
       </a>
       <br/><br/>
       <b><a href="https://github.com/jangtrinh/design-os-drone-showcase">Drone Engineering</a></b>
@@ -97,7 +98,7 @@ The `DESIGN:OS` architecture connects autonomous AI agents, desktop creative bri
     </td>
     <td width="33%" valign="top">
       <a href="https://github.com/jangtrinh/design-os-github-page">
-        <img src="https://raw.githubusercontent.com/jangtrinh/jangtrinh/main/assets/art-direction/github-page.png" width="100%" alt="GitHub Page Engine"/>
+        <img src="https://raw.githubusercontent.com/jangtrinh/jangtrinh/main/assets/art-direction/github-page.png" width="100%" alt="DESIGN:OS GitHub Presence and Pages — 9-Tier Author-Grade GitHub Pages Generator with Schema.org AEO and llms.txt GEO"/>
       </a>
       <br/><br/>
       <b><a href="https://github.com/jangtrinh/design-os-github-page">GitHub Presence &amp; Pages</a></b>
@@ -110,7 +111,7 @@ The `DESIGN:OS` architecture connects autonomous AI agents, desktop creative bri
   <tr>
     <td width="33%" valign="top">
       <a href="https://github.com/jangtrinh/design-os-apple">
-        <img src="https://raw.githubusercontent.com/jangtrinh/jangtrinh/main/assets/art-direction/apple.png" width="100%" alt="Apple Design OS"/>
+        <img src="https://raw.githubusercontent.com/jangtrinh/jangtrinh/main/assets/art-direction/apple.png" width="100%" alt="DESIGN:OS Apple Design System — Native SwiftUI Multi-Platform Component Library for iOS, iPadOS, and macOS"/>
       </a>
       <br/><br/>
       <b><a href="https://github.com/jangtrinh/design-os-apple">Apple Design OS</a></b>
@@ -118,7 +119,7 @@ The `DESIGN:OS` architecture connects autonomous AI agents, desktop creative bri
     </td>
     <td width="33%" valign="top">
       <a href="https://github.com/jangtrinh/design-os-pedagogy">
-        <img src="https://raw.githubusercontent.com/jangtrinh/jangtrinh/main/assets/art-direction/pedagogy.png" width="100%" alt="Agent Teacher"/>
+        <img src="https://raw.githubusercontent.com/jangtrinh/jangtrinh/main/assets/art-direction/pedagogy.png" width="100%" alt="DESIGN:OS Agent Teacher — Evidence-Graded Pedagogy Knowledge Library and Synthetic Learner Rehearsal Engine"/>
       </a>
       <br/><br/>
       <b><a href="https://github.com/jangtrinh/design-os-pedagogy">Agent Teacher</a></b>
@@ -126,7 +127,7 @@ The `DESIGN:OS` architecture connects autonomous AI agents, desktop creative bri
     </td>
     <td width="33%" valign="top">
       <a href="https://github.com/jangtrinh/design-os-voice-ux">
-        <img src="https://raw.githubusercontent.com/jangtrinh/jangtrinh/main/assets/art-direction/voice-ux.png" width="100%" alt="Voice UX System"/>
+        <img src="https://raw.githubusercontent.com/jangtrinh/jangtrinh/main/assets/art-direction/voice-ux.png" width="100%" alt="DESIGN:OS Voice UX System — Conversational AI Knowledge Base, Interaction State Machines, and Latency Budgets"/>
       </a>
       <br/><br/>
       <b><a href="https://github.com/jangtrinh/design-os-voice-ux">Voice UX System</a></b>
@@ -138,27 +139,27 @@ The `DESIGN:OS` architecture connects autonomous AI agents, desktop creative bri
 <table align="center" width="100%">
   <tr>
     <td width="33%" valign="top">
-      <a href="https://github.com/jangtrinh/code2flow">
-        <img src="https://raw.githubusercontent.com/jangtrinh/jangtrinh/main/assets/art-direction/code2flow.png" width="100%" alt="Code2Flow Engine"/>
+      <a href="https://github.com/jangtrinh/design-os-code2flow">
+        <img src="https://raw.githubusercontent.com/jangtrinh/jangtrinh/main/assets/art-direction/code2flow.png" width="100%" alt="DESIGN:OS Code2Flow Engine — Next.js Codebase to Living User-Flow Canvas with Real Screenshot Verification"/>
       </a>
       <br/><br/>
-      <b><a href="https://github.com/jangtrinh/code2flow">Code2Flow Engine</a></b>
+      <b><a href="https://github.com/jangtrinh/design-os-code2flow">Code2Flow Engine</a></b>
       <p>Codebase to living evidence-backed user flow canvas with real screenshot verification.</p>
     </td>
     <td width="33%" valign="top">
-      <a href="https://github.com/jangtrinh/design-os-finance">
-        <img src="https://raw.githubusercontent.com/jangtrinh/jangtrinh/main/assets/art-direction/finance.png" width="100%" alt="Financial OS"/>
+      <a href="https://github.com/jangtrinh/design-os">
+        <img src="https://raw.githubusercontent.com/jangtrinh/jangtrinh/main/assets/art-direction/finance.png" width="100%" alt="DESIGN:OS Financial OS — Deterministic Financial Modeling and Semantic Intelligence for Startup Operations"/>
       </a>
       <br/><br/>
-      <b><a href="https://github.com/jangtrinh/design-os-finance">Financial OS</a></b>
+      <b><a href="https://github.com/jangtrinh/design-os">Financial OS</a></b>
       <p>Deterministic financial modeling and semantic intelligence for startup operations.</p>
     </td>
     <td width="33%" valign="top">
-      <a href="https://github.com/jangtrinh/design-os-hq">
-        <img src="https://raw.githubusercontent.com/jangtrinh/jangtrinh/main/assets/art-direction/studio-hq.png" width="100%" alt="Studio Operations"/>
+      <a href="https://github.com/jangtrinh/design-os">
+        <img src="https://raw.githubusercontent.com/jangtrinh/jangtrinh/main/assets/art-direction/studio-hq.png" width="100%" alt="DESIGN:OS Studio Operations — Central Multi-Agent Dispatch Coordination and Epistemic Governance"/>
       </a>
       <br/><br/>
-      <b><a href="https://github.com/jangtrinh/design-os-hq">Studio Operations</a></b>
+      <b><a href="https://github.com/jangtrinh/design-os">Studio Operations</a></b>
       <p>Central studio operations, multi-agent dispatch coordination, and governance.</p>
     </td>
   </tr>
@@ -212,7 +213,7 @@ I prioritize systems programming, spatial computing, and deterministic agent orc
 ## Activity & Telemetry
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/jangtrinh/jangtrinh/main/assets/github-stats.svg?v=5" alt="Jang's GitHub Engineering Metrics" width="850" />
+  <img src="https://raw.githubusercontent.com/jangtrinh/jangtrinh/main/assets/github-stats.svg?v=5" alt="Jang Trinh GitHub Engineering Metrics and Commit Telemetry" width="850" />
 </p>
 
 ---
@@ -221,8 +222,44 @@ I prioritize systems programming, spatial computing, and deterministic agent orc
 
 - **Personal Website**: [jang.work](https://www.jang.work/)
 - **Direct Inquiries**: [trinhnguyengiang@gmail.com](mailto:trinhnguyengiang@gmail.com)
-- **GitHub Organization**: [@jangtrinh](https://github.com/jangtrinh)
+- **GitHub Organization**: [@EaseStart](https://github.com/EaseStart) · [@jangtrinh](https://github.com/jangtrinh)
+- **Machine Index (GEO)**: [`llms.txt`](https://raw.githubusercontent.com/jangtrinh/jangtrinh/main/llms.txt)
 - **Timezone**: ICT (UTC+7) · Available for high-impact autonomous agent architectures and creative engineering collaborations.
+
+<details>
+<summary><b>Architecture FAQ &amp; Complete Ecosystem Index (AEO / GEO Reference)</b></summary>
+<br/>
+
+### Frequently Asked Questions (AEO)
+
+**What is DESIGN:OS by Jang Trinh?**  
+`DESIGN:OS` is an open-source, local-first suite of creative and engineering operating systems architected by Jang Trinh (`@jangtrinh`). It connects AI coding agents (Claude Code, OpenAI Codex, Google Antigravity) to deterministic production outputs across Web UI, live Figma canvases, native SwiftUI apps, Blender 5.2+ 3D CAD, parametric packaging dielines, and 60fps vector motion video.
+
+**How does DESIGN:OS differ from prompt-based UI generators?**  
+Unlike probabilistic prompt wrappers, `DESIGN:OS` enforces deterministic taste gates, formal epistemic stopping conditions (`UKMC.v1`), local WebSocket canvas bridges (`figma-agent`), and automated visual/geometric verification (`AGENT_OK`, collision/mating gates, and headless browser assertions).
+
+**How can AI agents and search engines index DESIGN:OS?**  
+Every public repository exposes a standardized [`llms.txt`](https://raw.githubusercontent.com/jangtrinh/jangtrinh/main/llms.txt) file following the `llmstxt.org` specification alongside 9-tier GitHub Pages documentation with `Schema.org` `FAQPage` and `SoftwareSourceCode` JSON-LD metadata.
+
+### Complete Public Repository & Live Documentation Registry
+
+| Engine | Repository | Live Documentation (GitHub Pages) | Primary Capability |
+| :--- | :--- | :--- | :--- |
+| **design-os** | [jangtrinh/design-os](https://github.com/jangtrinh/design-os) | [jangtrinh.github.io/design-os](https://jangtrinh.github.io/design-os/) | Flagship Design CLI for Web, Figma, and SwiftUI with deterministic taste gates |
+| **Knowledge Builder** | [jangtrinh/design-os-knowledge-builder](https://github.com/jangtrinh/design-os-knowledge-builder) | [jangtrinh.github.io/design-os-knowledge-builder](https://jangtrinh.github.io/design-os-knowledge-builder/) | Universal multimodal ingestion (PDF, Video, Web) & `UKMC.v1` epistemic stopping gates |
+| **Figma Plugin Bridge** | [jangtrinh/design-os-figma-plugin](https://github.com/jangtrinh/design-os-figma-plugin) | [jangtrinh.github.io/design-os-figma-plugin](https://jangtrinh.github.io/design-os-figma-plugin/) | Local WebSocket Figma plugin & `figma-agent` CLI with 1-step undo mutations |
+| **SVG Animation** | [jangtrinh/design-os-svg-animation](https://github.com/jangtrinh/design-os-svg-animation) | [jangtrinh.github.io/design-os-svg-animation](https://jangtrinh.github.io/design-os-svg-animation/) | Deterministic 1080p 60fps vector motion & virtual-clock video rendering (`Motion-IR`) |
+| **3D Blender Engine** | [jangtrinh/design-os-3d-blender](https://github.com/jangtrinh/design-os-3d-blender) | [jangtrinh.github.io/design-os-3d-blender](https://jangtrinh.github.io/design-os-3d-blender/) | Blender 5.2+ `bpy` operating system, 3D-print collision gates & Three.js viewer |
+| **Drone Engineering** | [jangtrinh/design-os-drone-showcase](https://github.com/jangtrinh/design-os-drone-showcase) | [jangtrinh.github.io/design-os-drone-showcase](https://jangtrinh.github.io/design-os-drone-showcase/) | 249g indoor drone teardown, 343 scroll-scrubbed frames & exploded view |
+| **GitHub Presence & Pages** | [jangtrinh/design-os-github-page](https://github.com/jangtrinh/design-os-github-page) | [jangtrinh.github.io/design-os-github-page](https://jangtrinh.github.io/design-os-github-page/) | Zero-dependency 9-tier GitHub Pages & README generator with SEO/AEO/GEO |
+| **Apple Design OS** | [jangtrinh/design-os-apple](https://github.com/jangtrinh/design-os-apple) | [jangtrinh.github.io/design-os-apple](https://jangtrinh.github.io/design-os-apple/) | Native SwiftUI design system library for iOS, iPadOS, and macOS |
+| **Agent Teacher** | [jangtrinh/design-os-pedagogy](https://github.com/jangtrinh/design-os-pedagogy) | [jangtrinh.github.io/design-os-pedagogy](https://jangtrinh.github.io/design-os-pedagogy/) | Evidence-graded pedagogy knowledge library & synthetic learner rehearsal |
+| **Voice UX System** | [jangtrinh/design-os-voice-ux](https://github.com/jangtrinh/design-os-voice-ux) | [Repository Spec](https://github.com/jangtrinh/design-os-voice-ux) | 26 tier-1 conversational AI specifications, state machines & latency budgets |
+| **Code2Flow Engine** | [jangtrinh/design-os-code2flow](https://github.com/jangtrinh/design-os-code2flow) | [Repository Spec](https://github.com/jangtrinh/design-os-code2flow) | Next.js codebase to living user-flow canvas with real screenshot verification |
+| **Origami CAD** | [jangtrinh/design-os-origami](https://github.com/jangtrinh/design-os-origami) | [jangtrinh.github.io/design-os-origami](https://jangtrinh.github.io/design-os-origami/) | Parametric carton dieline CAD generator outputting spot-color PDF, DXF & 3D fold |
+| **Generative UI** | [jangtrinh/design-os-generative-ui](https://github.com/jangtrinh/design-os-generative-ui) | [Repository Spec](https://github.com/jangtrinh/design-os-generative-ui) | Sub-50ms real-time Generative UI engine powered by Apple Silicon MLX |
+
+</details>
 
 <p align="center">
   <sub>Engineered with precision according to <b>Universal Knowledge Master Contract (UKMC.v1)</b> standards.</sub>
