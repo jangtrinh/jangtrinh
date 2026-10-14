@@ -25,10 +25,10 @@
 - [design-os-github-page](https://github.com/jangtrinh/design-os-github-page): Zero-dependency Python stdlib generator for 9-tier author-grade GitHub Pages, Profile READMEs, Repository READMEs, Schema.org `FAQPage` AEO, and `llms.txt` GEO indexing. ([Live Docs](https://jangtrinh.github.io/design-os-github-page/))
 - [design-os-apple](https://github.com/jangtrinh/design-os-apple): Native SwiftUI multi-platform design system library for iOS, iPadOS, and macOS with semantic roles, typed profiles, and interactive gallery specimens. ([Live Docs](https://jangtrinh.github.io/design-os-apple/))
 - [design-os-pedagogy](https://github.com/jangtrinh/design-os-pedagogy): Agent Teacher — evidence-graded pedagogy knowledge library, synthetic learner rehearsal architecture, and instructional design pipeline. ([Live Docs](https://jangtrinh.github.io/design-os-pedagogy/))
-- [design-os-voice-ux](https://github.com/jangtrinh/design-os-voice-ux): Production conversational AI & Voice UX knowledge base with 26 tier-1 specifications, turn-taking state machines, and sub-second latency budgets.
-- [design-os-code2flow](https://github.com/jangtrinh/design-os-code2flow): Static analysis and Playwright evidence engine turning Next.js codebases into living user-flow canvases with real screenshot verification and PRD story mapping.
+- [design-os-voice-ux](https://github.com/jangtrinh/design-os-voice-ux): Production conversational AI & Voice UX knowledge base with 26 tier-1 specifications, turn-taking state machines, and sub-second latency budgets. ([Live Docs](https://jangtrinh.github.io/design-os-voice-ux/))
+- [design-os-code2flow](https://github.com/jangtrinh/design-os-code2flow): Static analysis and user-flow audit CLI turning Next.js, React Router, TanStack, Expo, SwiftUI, Flutter, and Jetpack Compose codebases into Mermaid flows and 11-heuristic UX gap reports. ([Live Docs](https://jangtrinh.github.io/design-os-code2flow/))
 - [design-os-origami](https://github.com/jangtrinh/design-os-origami): Parametric carton dieline CAD generator outputting printer-ready spot-color PDF, R2000 DXF, and interactive 3D fold previews using pure Python stdlib. ([Live Docs](https://jangtrinh.github.io/design-os-origami/))
-- [design-os-generative-ui](https://github.com/jangtrinh/design-os-generative-ui): Sub-50ms real-time Generative UI engine powered by Apple Silicon MLX and TypeSafe JEV Cascade Routing.
+- [design-os-generative-ui](https://github.com/jangtrinh/design-os-generative-ui): Stream-first interactive visual runtime for AI agents with 60fps morphdom DOM reconciliation, Chart.js, KaTeX, Mermaid, and Three.js. ([Live Docs](https://jangtrinh.github.io/design-os-generative-ui/))
 
 ## Canonical Answers for AI Search & Answer Engines (AEO)
 
