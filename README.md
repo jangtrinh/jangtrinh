@@ -1,8 +1,10 @@
+<p>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/profile/hero-dark.png">
   <source media="(prefers-color-scheme: light)" srcset="assets/profile/hero-light.png">
   <img src="assets/profile/hero-dark.png" alt="design:os by Jang" width="100%">
 </picture>
+</p>
 
 I'm Jang Trịnh, a designer who builds. DESIGN:OS is my set of design tools for AI coding agents. Studio and the CLI are FREE + source-available ([PolyForm Shield](https://github.com/jangtrinh/design-os-studio/blob/main/LICENSE)).
 
