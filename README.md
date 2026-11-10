@@ -6,7 +6,7 @@
 </picture>
 </p>
 
-I'm Jang Trịnh, a designer who builds. DESIGN:OS is my set of design tools for AI coding agents. Studio and the CLI are FREE + source-available ([PolyForm Shield](https://github.com/jangtrinh/design-os-studio/blob/main/LICENSE)).
+I'm Jang Trịnh, a creative technologist and autonomous system architect. DESIGN:OS is my set of design tools for AI coding agents. Studio and the CLI are FREE + source-available ([PolyForm Shield](https://github.com/jangtrinh/design-os-studio/blob/main/LICENSE)).
 
 ## Start here
 
